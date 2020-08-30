@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: grey;
+}
+.box{
+	position: absolute;
+	margin-left: 500px;
+	top: 150px;
+	padding: 6px;
+	background-color: #f1f1f1;
+	
+}
+.box a{
+	width: 50px;
+	height: 50px;
+    text-indent: -9999px;
+	margin: 5px;
+	cursor: pointer;
+}
+#orange{
+	background-color: #F5B041;
+}
+#white{
+	background-color: #F7F9F9 ;
+}
+#green{
+	background-color: #58D68D;
+}
+#yellow{
+	background-color: #F7DC6F;
+}
+#red{
+	background-color: #E74C3C;
+}
+#blue{
+	background-color: #5DADE2;
+}
+
+
+
